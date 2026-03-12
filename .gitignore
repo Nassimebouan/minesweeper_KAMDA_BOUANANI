@@ -1,0 +1,10 @@
+*
+!README.md
+!.gitignore
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+!CMakeLists.txt
+!*/
+CMakeFiles
