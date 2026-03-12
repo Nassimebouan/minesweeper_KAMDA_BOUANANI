@@ -71,13 +71,13 @@ bool Cell::has_neighbours()
 }
 bool Cell::is_flagged()
 {
-    return _flagged;
+    return _flag;
 }
 void Cell::flag()
 {
-    _flagged = true;
+    _flag = true;
 }
 void Cell::unflag()
 {
-    _flagged = false;
+    _flag = false;
 }
